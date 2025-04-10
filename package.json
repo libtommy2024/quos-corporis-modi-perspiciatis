@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/quos-corporis-modi-perspiciatis",
-  "version": "10.32.310",
+  "version": "10.32.311",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -695,5 +695,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/quos-corporis-modi-perspiciatis/issues"
   },
-  "packageManager": "yarn@4.8.1"
+  "packageManager": "yarn@4.9.0"
 }
